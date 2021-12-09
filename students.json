@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed moataz",
+    "grades": "[15,20,50]",
+    "comment": "excellent"
+  },
+  {
+    "id": 2,
+    "name": "marwan ",
+    "grades": "[20,15,10]",
+    "comment": " good"
+  },
+  { "id": 3,
+     "name": "omar",
+    "grades": "[20,13,15]",
+      "comment": " very good" }
+]
